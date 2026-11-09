@@ -1,0 +1,3 @@
+local doors = workspace:FindFirstChild("Doors")
+
+doors:Destroy()
